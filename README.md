@@ -1,4 +1,6 @@
 # Remote-Working-Survey-Analysis
+#Overview:
+This GitHub repository showcases an analysis of the "Remote Working Survey," which collected responses from 1,500 remote workers in New South Wales, Australia. The survey was conducted in August-September 2020 and March-April 2021, aiming to understand the evolving experiences and attitudes towards remote work during different stages of the COVID-19 pandemic.
 
 #Project Description:
 The project involves analyzing the survey data to gain insights into the impact of the pandemic on remote work, productivity, time management, and challenges faced. The repository provides details on the analysis methodology, tools used, key findings, and actionable recommendations.
