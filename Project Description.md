@@ -1,0 +1,1 @@
+The project involves analyzing the survey data to gain insights into the impact of the pandemic on remote work, productivity, time management, and challenges faced. The repository provides details on the analysis methodology, tools used, key findings, and actionable recommendations.
